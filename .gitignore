@@ -1,0 +1,3 @@
+*.nix~
+/hardware-configuration.nix
+/nerd-fonts/
